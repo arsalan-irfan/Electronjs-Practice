@@ -1,0 +1,22 @@
+{
+  "name": "sysinfoapp",
+  "version": "1.0.0",
+  "description": "simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalan318/Electronjs-Practice.git"
+  },
+  "author": "Arsalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalan318/Electronjs-Practice/issues"
+  },
+  "homepage": "https://github.com/arsalan318/Electronjs-Practice#readme",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
